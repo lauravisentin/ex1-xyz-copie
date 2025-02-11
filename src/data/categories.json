@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nom": "Finance", "couleur": "lightblue" },
+    { "id": 2, "nom": "Sport", "couleur": "lightgreen" },
+    { "id": 3, "nom": "IA", "couleur": "lightcoral" },
+    { "id": 4, "nom": "Culture", "couleur": "lightgoldenrodyellow" },
+    { "id": 5, "nom": "Santé", "couleur": "lightpink" },
+    { "id": 6, "nom": "Tourisme", "couleur": "lightseagreen" }
+]
